@@ -3,7 +3,7 @@
       {
         "image": {
           "source": {
-              "gcsImageUri": "gs://my-bucket-name/donuts.png"
+              "gcsImageUri": "gs://my-bucket-name/img.jpg"
           }
         },
         "features": [
